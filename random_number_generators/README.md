@@ -14,3 +14,10 @@ One of the oldest and best-known generator algorithm. The number generation is e
 A discontinuous piecewise linear equation.
 
 ![LCG Equation](https://wikimedia.org/api/rest_v1/media/math/render/svg/70a1708a4432a26fa32571271104f9caabdefc1c)
+
+## Blum Blum Shub
+
+### Calculation
+A derivation of Michael O. Rabin's one-way function.
+
+![BBS Equation](https://wikimedia.org/api/rest_v1/media/math/render/svg/1973ef6f265492040ea5a1ac9cd2e1be73e2b04b)
